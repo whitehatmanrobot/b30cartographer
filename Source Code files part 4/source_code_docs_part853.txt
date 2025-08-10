@@ -1,0 +1,3102 @@
+og:atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:42] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:07] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\bin is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template\Attribut is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template\Common is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\gl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\mfc\res is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\objmodel is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\crt is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\crt\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\bin is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\Attribut is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\Common is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\gl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\mfc\res is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\objmodel is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\crt is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\crt\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              1  e:\DevTools\common\vclkg\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              1  e:\DevTools\common\vclkg\bin\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              4  e:\DevTools\common\vclkg\env\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              3  e:\DevTools\common\vclkg\env\template\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             95  e:\DevTools\common\vclkg\env\template\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             40  e:\DevTools\common\vclkg\env\template\Attribut\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             42  e:\DevTools\common\vclkg\env\template\Common\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir            986  e:\DevTools\common\vclkg\inc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             69  e:\DevTools\common\vclkg\inc\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              4  e:\DevTools\common\vclkg\inc\gl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             85  e:\DevTools\common\vclkg\inc\mfc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             37  e:\DevTools\common\vclkg\inc\mfc\res\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             15  e:\DevTools\common\vclkg\inc\objmodel\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              6  e:\DevTools\common\vclkg\inc\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              1  e:\DevTools\common\vclkg\src\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             18  e:\DevTools\common\vclkg\src\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir            852  e:\DevTools\common\vclkg\src\crt\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              6  e:\DevTools\common\vclkg\src\crt\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir            289  e:\DevTools\common\vclkg\src\mfc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\bin\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       4  e:\DevTools\common\vclkg\env\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       3  e:\DevTools\common\vclkg\env\template\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      95  e:\DevTools\common\vclkg\env\template\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      40  e:\DevTools\common\vclkg\env\template\Attribut\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      42  e:\DevTools\common\vclkg\env\template\Common\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                     986  e:\DevTools\common\vclkg\inc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      69  e:\DevTools\common\vclkg\inc\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       4  e:\DevTools\common\vclkg\inc\gl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      85  e:\DevTools\common\vclkg\inc\mfc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      37  e:\DevTools\common\vclkg\inc\mfc\res\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      15  e:\DevTools\common\vclkg\inc\objmodel\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       6  e:\DevTools\common\vclkg\inc\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\src\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      18  e:\DevTools\common\vclkg\src\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                     852  e:\DevTools\common\vclkg\src\crt\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       6  e:\DevTools\common\vclkg\src\crt\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                     289  e:\DevTools\common\vclkg\src\mfc\
+=== C:/Users/treeman/Desktop/windows nt source code\xbox\xbox_leak_may_2020\xbox trunk\xbox\public\wsdk\inc\atlmfc\license.txt ===
+END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+
+ACTIVEX(tm) TEMPLATE LIBRARY
+
+IMPORTANT-READ CAREFULLY: This Microsoft End-User License Agreement ("EULA")
+is a legal agreement between you (either an individual or a single entity) and
+Microsoft Corporation for the Microsoft software product identified above,
+which includes computer software and associated media and printed materials,
+and may include "online" or electronic documentation ("SOFTWARE PRODUCT" or
+"SOFTWARE"). By installing, copying, or otherwise using the SOFTWARE PRODUCT,
+you agree to be bound by the terms of this EULA.
+ 
+SOFTWARE PRODUCT LICENSE
+
+The SOFTWARE PRODUCT is protected by copyright laws and international
+copyright treaties, as well as other intellectual property laws and treaties.
+The SOFTWARE PRODUCT is licensed, not sold.
+
+1.  GRANT OF LICENSE. This EULA grants you the following rights:
+
+a. You may use an unlimited number of copies of the Microsoft Software
+ Product identified above on an unlimited number of  computers for your
+ personal use.	The SOFTWARE is in "use" on a computer when it is loaded into
+ temporary memory (i.e., RAM) or installed into permanent memory (e.g., hard
+ disk, CD-ROM, or other storage device) of that computer. However,
+ installation on a network server for the sole purpose of internal
+ distribution to one or more other computer(s) shall not constitute "use" for
+ which a separate license is required, provided you have a separate license
+ for each computer to which the SOFTWARE is distributed.
+
+b. Solely with respect to electronic documents included with the SOFTWARE,
+you may make an unlimited number of copies (either in hardcopy or electronic
+form), provided that such copies shall be used only for internal purposes and
+are not republished or distributed to any third party.
+
+2. OWNERSHIP.	Except as expressly licensed to you in this Agreement,
+Microsoft retains all right, title and interest in and to the SOFTWARE
+PRODUCT; provided, however, that, subject to the license grant in Section 1.a
+and Microsoft's ownership of the underlying SOFTWARE PRODUCT, you shall own
+all right, title and interest in and to any Derivative Technology of the
+Product created by or for you.
+
+3. COPYRIGHT. All title and copyrights in and to the SOFTWARE PRODUCT
+(including but not limited to any images, photographs, animations, video,
+audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the
+accompanying printed materials, and any copies of the SOFTWARE PRODUCT are
+owned by Microsoft or its suppliers. The SOFTWARE PRODUCT is protected by
+copyright laws and international treaty provisions. Therefore, you must treat
+the SOFTWARE PRODUCT like any other copyrighted material exce t that you may
+either (a) make one copy of the SOFTWARE PRODUCT solely for backup or archival
+purposes or (b) install the SOFTWARE PRODUCT on a single computer provided you
+keep the original solely for backup or archival purposes. You may not copy the
+printed materials accompanying the SOFTWARE PRODUCT.
+
+4.  DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+
+a. Limitations on Reverse Engineering, Decompilation, and Disassembly.	You
+may not reverse engineer, decompile, or disassemble the SOFTWARE, except and
+only to the extent that such activity is expressly permitted by applicable law
+notwithstanding this limitation.
+
+b.  Rental. You may not rent or lease the SOFTWARE PRODUCT. 
+
+c. Software Transfer. You may permanently transfer all of your rights under
+this EULA, provided that you retain no copies, you transfer all of the
+SOFTWARE PRODUCT (including all component parts, the media and printed
+materials, any upgrades, this EULA, and, if applicable, the Certificate of
+Authenticity), and the recipient agrees to the terms of this EULA.
+
+d. Termination. Without prejudice to any other rights, Microsoft may
+terminate this EULA if you fail to comply with the terms and conditions of
+this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT.
+
+5.  REDISTRIBUTABLE COMPONENTS. 
+
+a. Sample Code.  In addition to the rights granted in Section 1, Microsoft
+grants you the right to use and modify the source code version of those
+portions of the SOFTWARE designated as "Sample Code" ("SAMPLE CODE") for the
+sole purposes of designing, developing, and testing your software product(s),
+and to reproduce and distribute the SAMPLE CODE, along with any modifications
+thereof, only in object code form , provided that you comply with Section 5.c.
+
+b. Redistributable Code. In addition to the rights granted in Section 1,
+Microsoft grants you a nonexclusive royalty-free right to reproduce and
+distribute the object code version of any portion  of the SOFTWARE, along with
+any modifications thereof, EXCEPT those files listed in the SOFTWARE file
+NOREDIST.TXT ("REDISTRIBUTABLE SOFTWARE"), provided you comply with Section
+5.c.
+
+c. Redistribution Requirements. If you redistribute the SAMPLE CODE or
+REDISTRIBUTABLE SOFTWARE (collectively, "REDISTRIBUTABLES") you agree to: (i)
+distribute the REDISTRIBUTABLES in object code only in conjunction with and as
+a part of a software application product developed by you which adds
+significant and primary functionality to the SOFTWARE; (ii) not use
+Microsoft's name, logo, or trademarks to market your software application
+product; (iii) include a valid copyright notice on your software product ;
+(iv) indemnify, hold harmless, and defend Microsoft from and against any
+claims or lawsuits, including attorney's fees, that arise or result from the
+use or distribution of your software application product; (v) not permit
+further distribution of the REDISTRIBUTABLES by your end user. Contact
+Microsoft for the applicable royalties due and other licensing terms for all
+other uses and/or distribution of the REDISTRIBUTABLES.
+
+6. U.S. GOVERNMENT RESTRICTED RIGHTS. THE SOFTWARE PRODUCT AND DOCUMENTATION
+ARE PROVIDED WITH RESTRICTED RIGHTS. USE, DUPLICATION, OR DISCLOSURE BY THE
+GOVERNMENT IS SUBJECT TO RESTRICTIONS AS SET FORTH IN SUBPARAGRAPH (C)(1)(II)
+OF THE RIGHTS IN TECHNICAL DATA AND COMPUTER SOFTWARE CLAUSE AT DFARS
+252.227-7013 OR SUBPARAGRAPHS (C)(1) AND (2) OF THE COMMERCIAL COMPUTER
+SOFTWARE-RESTRICTED RIGHTS AT 48 CFR 52.227-19, AS APPLICABLE. MANUFACTURER IS
+MICROSOFT CORPORATION/ONE MICROSOFT WAY/REDMOND, WA 98052-6 99.
+
+MISCELLANEOUS
+
+If you acquired this product in the United States, this EULA is governed by
+the laws of the State of Washington. 
+
+If you acquired this product in Canada, this EULA is governed by the laws of
+the Province of Ontario, Canada. Each of the parties hereto irrevocably
+attorns to the jurisdiction of the courts of the Province of Ontario and
+further agrees to commence any litigation which may arise hereunder in the
+courts located in the Judicial District of York, Province of Ontario. 
+
+If this product was acquired outside the United States, then local law may
+apply.
+
+Should you have any questions concerning this EULA, or if you desire to
+contact Microsoft for any reason, please contact the Microsoft subsidiary
+serving your country, or write: Microsoft Sales Information Center/One
+Microsoft Way/Redmond, WA 98052-6399.
+
+If you have a specific question regarding the licensing of redistributables,
+you may call the Microsoft Technical Sales Information Team at (800) 426-9400
+(United States only) or send inquiries via fax to:	Microsoft Visual C++
+Licensing Administrator, (206) 936-7329 (United States).[MAS1]
+
+LIMITED WARRANTY
+
+LIMITED WARRANTY. Except with respect to the REDISTRIBUTABLES, which are
+provided "as is," without warranty of any kind, Microsoft warrants that (a)
+the SOFTWARE PRODUCT will perform substantially in accordance with the
+accompanying written materials for a period of ninety (90) days from the date
+of receipt, and (b) any hardware accompanying the SOFTWARE PRODUCT will be
+free from defects in materials and workmanship under normal use and service
+for a period of one (1) year from the date of receipt. Some sta tes and
+jurisdictions do not allow limitations on duration of an implied warranty, so
+the above limitation may not apply to you. To the extent allowed by applicable
+law, implied warranties on the SOFTWARE PRODUCT and hardware, if any, are
+limited to ninety (90) days and one year, respectively.
+
+CUSTOMER REMEDIES. Microsoft's and its suppliers' entire liability and your
+exclusive remedy shall be, at Microsoft's option, either (a) return of the
+price paid, or (b) repair or replacement of the SOFTWARE PRODUCT or hardware
+that does not meet Microsoft's Limited Warranty and which is returned to
+Microsoft with a copy of your receipt. This Limited Warranty is void if
+failure of the SOFTWARE PRODUCT or hardware has resulted from accident, abuse,
+or misapplication. Any replacement SOFTWARE PRODUCT or hardw are will be
+warranted for the remainder of the original warranty period or thirty (30)
+days, whichever is longer. Outside the United States, neither these remedies
+nor any product support services offered by Microsoft are available without
+proof of purchase from an authorized international source.
+
+NO OTHER WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+MICROSOFT AND ITS SUPPLIERS DISCLAIM ALL OTHER WARRANTIES, EITHER EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE, WITH REGARD TO THE SOFTWARE PRODUCT, AND
+ANY ACCOMPANYING HARDWARE. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL
+RIGHTS. YOU MAY HAVE OTHERS, WHICH VARY FROM STATE/JURISDICTION TO
+STATE/JURISDICTION.
+
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY
+SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING,
+WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS
+INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS)
+ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT, EVEN IF
+MICROSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME
+STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY
+FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO
+YOU.
+
+Si vous avez acquis votre produit Microsoft au CANADA, la garantie limite
+suivante vous concerne :
+
+GARANTIE LIMITEE
+
+GARANTIE LIMITEE - Sauf pour celles du REDISTRIBUTABLES, qui sont fournies
+"comme telles", sans aucune garantie quelle qu'elle soit, Microsoft garantit
+que (a) la performance du LOGICIEL sera substantiellement en conformit avec
+le(s) manuel(s) de produits qui accompagne(nt) le LOGICIEL pour une priode de
+quatre-vingt-dix (90) jours  compter de la date de rception ; et (b) tout
+matriel fourni par Microsoft accompagnant le LOGICIEL sera exempt de dfaut
+de matire premire ou de vice de fabrication dans des conditions normales
+d'utilisation et d'entretien pour une priode d'un an  compter de la date de
+rception. Toute garantie implicite concernant le LOGICIEL et le matriel est
+limite  quatre-vingt-dix (90) jours et un (1) an, respectivement.
+
+RECOURS DU CLIENT - La seule obligation de Microsoft et votre recours exclusif
+seront, au choix de Microsoft, soit (a) le remboursement du prix pay ou (b)
+la rparation ou le remplacement du LOGICIEL ou du matriel qui n'est pas
+conforme  la Garantie Limite de Microsoft et qui est retourn  Microsoft
+avec une copie de votre reu. Cette Garantie Limite est nulle si le dfaut du
+LOGICIEL ou du matriel est caus par un accident, un traitement abusif ou une
+mauvaise application. Tout LOGICIEL de remplacem ent sera garanti pour le
+reste de la priode de garantie initiale ou pour trente (30) jours, selon
+laquelle de ces deux priodes est la plus longue.
+
+AUCUNE AUTRE GARANTIE - MICROSOFT DESAVOUE TOUTE AUTRE GARANTIE, EXPRESSE OU
+IMPLICITE, Y COMPRIS MAIS NE SE LIMITANT PAS AUX GARANTIES IMPLICITES DU
+CARACTERE ADEQUAT POUR LA COMMERCIALISATION OU UN USAGE PARTICULIER EN CE QUI
+CONCERNE LE LOGICIEL, LE(S) MANUEL(S) DE PRODUITS, LA DOCUMENTATION ECRITE ET
+TOUT MATERIEL QUI L'ACCOMPAGNENT. CETTE GARANTIE LIMITEE VOUS ACCORDE DES
+DROITS JURIDIQUES SPECIFIQUES. PAS D'OBLIGATION POUR LES DOMMAGES INDIRECTS -
+MICROSOFT OU SES FOURNISSEURS N'AURONT D'OBLIGATION EN AUCUNE CIRCONSTANCE
+POUR TOUT AUTRE DOMMAGE QUEL QU'IL SOIT (Y COMPRIS, SANS LIMITATION, LES
+DOMMAGES ENTRAINES PAR LA PERTE DE BENEFICES, L'INTERRUPTION DES AFFAIRES, LA
+PERTE D'INFORMATION COMMERCIALE OU TOUTE AUTRE PERTE PECUNIAIRE) DECOULANT DE
+L'UTILISATION OU DE L'IMPOSSIBILITE D'UTILISATION DE CE PRODUIT MICROSOFT, ET
+CE, MEME SI MICROSOFT A ETE AVISE DE LA POSSIBILITE DE TELS DOMMAGES. EN TOUT
+CAS, LA SEULE OBLIGATION DE MICROSOFT EN VERTU DE TOUTE DISPOSITION DE CETTE
+CONVENTION SE LIMITERA AU MONTANT EN FAIT PAYE PAR VOUS POUR LE LOGICIEL.
+
+La prsente Convention est rgie par les lois de la province d'Ontario,
+Canada. Chacune des parties  la prsente reconnat irrvocablement la
+comptence des tribunaux de la province d'Ontario et consent  instituer tout
+litige qui pourrait dcouler de la prsente auprs des tribunaux situs dans
+le district judiciaire de York, province d'Ontario.
+
+Au cas o vous auriez des questions concernant cette licence ou que vous
+dsiriez vous mettre en rapport avec Microsoft pour quelque raison que ce
+soit, veuillez contacter la succursale Microsoft desservant votre pays, dont
+l'adresse est fournie dans ce produit, ou crire  : Microsoft Sales
+Information Center, One Microsoft Way, Redmond, Washington 98052-6399.
+=== C:/Users/treeman/Desktop/windows nt source code\xbox\xbox_leak_may_2020\xbox trunk\xbox\public\wsdk\inc\atlmfc\res\browscap.xml ===
+<?xml version="1.0"?>
+
+<Browsers>
+<!-- Microsoft Browsers -->
+
+<!-- IE 1.x -->
+<browser
+	user-agent="IE 1.5">
+<name>IE</name>
+<version>1.5</version>
+<majorver>1</majorver>
+<minorver>5</minorver>
+<frames>0</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>0</javascript>
+<javapplets>0</javapplets>
+<beta>0</beta>
+<Win16>0</Win16>
+</browser>
+
+<browser
+	parent="IE 1.5"
+	user-agent="Mozilla/1.22 (compatible; MSIE 1.5; Windows NT)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 1.5"
+	user-agent="Mozilla/1.22 (compatible; MSIE 1.5; Windows 95)">
+<platform>Win95</platform>
+</browser>
+
+<!-- IE 2.x -->
+<browser
+	user-agent="IE 2.0">
+<name>IE</name>
+<version>2.0</version>
+<majorver>2</majorver>
+<minorver>0</minorver>
+<frames>0</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>0</javascript>
+<javapplets>0</javapplets>
+<beta>0</beta>
+<Win16>0</Win16>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0; Mac_68000)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0; Mac_PowerPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0B; Mac_68000)">
+<platform>Mac68K</platform>
+<version>2.0B</version>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0B; Mac_PowerPC)">
+<platform>MacPPC</platform>
+<version>2.0B</version>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.0; Mac_68000)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.0; Mac_PowerPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.0B; Mac_68000)">
+<platform>Mac68K</platform>
+<version>2.0B</version>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.0B; Mac_PowerPC)">
+<platform>MacPPC</platform>
+<version>2.0B</version>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.1;  Windows 3.1)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<version>2.1</version>
+<minorver>#1</minorver>
+<frames>1</frames>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.1; Mac_68000)">
+<platform>Mac68K</platform>
+<version>2.1</version>
+<minorver>#1</minorver>
+<frames>1</frames>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.1; Mac_PowerPC)">
+<platform>MacPPC</platform>
+<version>2.1</version>
+<minorver>#1</minorver>
+<frames>1</frames>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.5;  Windows 3.1)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<version>2.5</version>
+<minorver>#5</minorver>
+</browser>
+
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 2.5b;  Windows 3.1)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<version>2.5b</version>
+<minorver>#5</minorver>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0c; Windows 95)">
+<platform>Win95</platform>
+<version>2.0c</version>
+</browser>
+
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.01; Windows NT)">
+<platform>WinNT</platform>
+<version>2.01</version>
+<minorver>#01</minorver>
+</browser>
+
+<browser
+	parent="IE 2.0"
+	user-agent="Mozilla/1.22 (compatible; MSIE 2.0d; Windows NT)">
+<platform>WinNT</platform>
+<version>2.0d</version>
+</browser>
+
+
+<!-- IE 3.x -->
+<browser
+	user-agent="IE 3.0">
+<name>IE</name>
+<version>3.0</version>
+<majorver>3</majorver>
+<minorver>0</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>1</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<ActiveXControls>1</ActiveXControls>
+<Win16>0</Win16>
+<beta>0</beta>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<Crawler>0</Crawler>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.01; Windows 3.1)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<ActiveXControls>0</ActiveXControls>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0a; Windows 3.1)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+<ActiveXControls>0</ActiveXControls>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; AK; Windows 95)">
+<platform>Win95</platform>
+<AK>1</AK>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; AK; Windows NT)">
+<platform>WinNT</platform>
+<AK>1</AK>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; AOL 3.0; Windows 95)">
+<platform>Win95</platform>
+<AOL>1</AOL>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; SK; Windows 95)">
+<platform>Win95</platform>
+<SK>1</SK>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; SK; Windows NT)">
+<platform>WinNT</platform>
+<SK>1</SK>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; Win 32)">
+<platform>Win32</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; Windows 95) Modified">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; Windows 95;*)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; Windows NT)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0; Windows NT;*)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0A; Windows 95)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B3; Windows 95)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B3; Windows NT)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B; Win32)">
+<platform>Win32</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B; Windows 95)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B; Windows 95;*)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT;*)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.1; Windows NT)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.01*; Windows 95)">
+<version>3.01</version>
+<minorver>01</minorver>
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.01*; Windows NT)">
+<version>3.01</version>
+<minorver>01</minorver>
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.01*; Mac_PowerPC)">
+<version>3.01</version>
+<minorver>01</minorver>
+<vbscript>0</vbscript>
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.01*; Mac_68000)">
+<version>3.01</version>
+<minorver>01</minorver>
+<vbscript>0</vbscript>
+<platform>Mac68K</platform>
+</browser>
+
+<!-- ie 3.02 -->
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Windows 95)">
+<version>3.02</version>
+<minorver>02</minorver>
+<platform>Win95</platform>
+</browser>
+
+<!-- ie 3.02 -->
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Win32)">
+<version>3.02</version>
+<minorver>02</minorver>
+<platform>Win32</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Windows NT)">
+<version>3.02</version>
+<minorver>02</minorver>
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; AK; Windows 95)">
+<version>3.02</version>
+<minorver>02</minorver>
+<AK>1</AK>
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; AK; Windows NT)">
+<version>3.02</version>
+<minorver>02</minorver>
+<AK>1</AK>
+<platform>WinNT</platform>
+</browser>
+
+<!-- IE 3.x Authenticode update -->
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Update a; Win32)">
+<version>3.02</version>
+<minorver>02</minorver>
+<platform>Win32</platform>
+<AuthenticodeUpdate>a</AuthenticodeUpdate>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Update a; Windows 95)">
+<minorver>02</minorver>
+<version>3.02</version>
+<platform>Win95</platform>
+<AuthenticodeUpdate>a</AuthenticodeUpdate>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Update a; Windows NT)">
+<minorver>02</minorver>
+<version>3.02</version>
+<platform>WinNT</platform>
+<AuthenticodeUpdate>a</AuthenticodeUpdate>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Update a; AK; Win32)">
+<version>3.02</version>
+<minorver>02</minorver>
+<platform>Win32</platform>
+<AK>1</AK>
+<AuthenticodeUpdate>a</AuthenticodeUpdate>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Update a; AK; Windows 95)">
+<minorver>02</minorver>
+<version>3.02</version>
+<platform>Win95</platform>
+<AK>1</AK>
+<AuthenticodeUpdate>a</AuthenticodeUpdate>
+</browser>
+
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3.02; Update a; AK; Windows NT)">
+<version>3.02</version>
+<minorver>02</minorver>
+<platform>WinNT</platform>
+<AK>1</AK>
+<AuthenticodeUpdate>a</AuthenticodeUpdate>
+</browser>
+
+<!-- IE 3.x WILDCARD (IF ALL ABOVE FAIL) -->
+<browser
+	parent="IE 3.0"
+	user-agent="Mozilla/2.0 (compatible; MSIE 3*)">
+</browser>
+
+<!-- IE 4.x -->
+<browser
+	user-agent="IE 4.0">
+<name>IE</name>
+<version>4.0</version>
+<majorver>4</majorver>
+<minorver>0</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>1</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<ActiveXControls>1</ActiveXControls>
+<Win16>0</Win16>
+<beta>0</beta>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<Crawler>0</Crawler>
+<cdf>1</cdf>
+</browser>
+
+<!-- ie 4 beta 1 -->
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b1; Windows 95)">
+<platform>Win95</platform>
+<beta>1</beta>
+<cdf>0</cdf>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b1; Windows NT)">
+<platform>WinNT</platform>
+<beta>1</beta>
+<cdf>0</cdf>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b1 Crawler; Windows 95)">
+<platform>Win95</platform>
+<beta>1</beta>
+<Crawler>1</Crawler>
+<cdf>0</cdf>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b1 Crawler; Windows NT)">
+<platform>WinNT</platform>
+<beta>1</beta>
+<Crawler>1</Crawler>
+<cdf>0</cdf>
+</browser>
+
+<!-- ie 4 beta 2.  This is not a commitment to a beta 2, -->
+<!-- but is being provided as a placeholder if needed. -->
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b2; Windows 95)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b2; Windows NT)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b2 Crawler; Windows 95)">
+<platform>Win95</platform>
+<beta>1</beta>
+<Crawler>1</Crawler>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0b2 Crawler; Windows NT)">
+<platform>WinNT</platform>
+<beta>1</beta>
+<Crawler>1</Crawler>
+</browser>
+
+<!-- ie 4 final release -->
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)">
+<platform>Win95</platform>
+<beta>0</beta>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)">
+<platform>WinNT</platform>
+<beta>0</beta>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0 Crawler; Windows 95)">
+<platform>Win95</platform>
+<beta>0</beta>
+<Crawler>1</Crawler>
+</browser>
+
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.0 Crawler; Windows NT)">
+<platform>WinNT</platform>
+<beta>0</beta>
+<Crawler>1</Crawler>
+</browser>
+
+<!-- IE 4.x WILDCARD (IF ALL ABOVE FAIL) -->
+<browser
+	parent="IE 4.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 4.*)">
+</browser>
+
+<!-- IE 5.0 -->
+<browser
+	user-agent="IE 5.0">
+<name>IE</name>
+<version>5.0</version>
+<majorver>5</majorver>
+<minorver>0</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>1</vbscript>
+<javapplets>1</javapplets>
+<javascript>1</javascript>
+<ActiveXControls>1</ActiveXControls>
+<Win16>0</Win16>
+<beta>0</beta>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<Update>0</Update>
+</browser>
+
+<browser
+	parent="IE 5.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.0; Windows 95*)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 5.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.0; Windows 98*)">
+<platform>Win98</platform>
+</browser>
+
+<browser
+	parent="IE 5.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.0; Windows NT*)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 5.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.0*)">
+</browser>
+
+<browser
+	parent="IE 5.0"
+	user-agent="IE 5.5">
+<version>5.5</version>
+<majorver>5</majorver>
+<minorver>5</minorver>
+</browser>
+
+
+<browser
+	parent="IE 5.5"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.5; Windows 95*)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 5.5"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.5; Windows 98*)">
+<platform>Win98</platform>
+</browser>
+
+<browser
+	parent="IE 5.5"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.5; Windows NT*)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 5.5"
+	user-agent="Mozilla/4.0 (compatible; MSIE 5.5*)">
+</browser>
+
+<browser
+	parent="IE 5.5"
+	user-agent="IE 6.0">
+<version>6.0</version>
+<majorver>6</majorver>
+<minorver>0</minorver>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0b; Windows 95*)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows 95*)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98*)">
+<platform>Win98</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows 98*)">
+<platform>Win98</platform>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT*)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT*)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0b*)">
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="IE 6.0"
+	user-agent="Mozilla/4.0 (compatible; MSIE 6.0*)">
+</browser>
+
+
+<!-- Pocket IE -->
+<browser
+	user-agent="Microsoft Pocket Internet Explorer/0.6">
+<name>PIE</name>
+<version>1.0</version>
+<majorver>1</majorver>
+<minorver>0</minorver>
+<frames>0</frames>
+<tables>1</tables>
+<cookies>0</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>0</javascript>
+<javapplets>0</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<Win16>0</Win16>
+<beta>0</beta>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<platform>WinCE</platform>
+</browser>
+
+<browser
+	user-agent="Mozilla/1.1 (compatible; MSPIE 1.1; Windows CE)">
+<name>PIE</name>
+<version>1.1</version>
+<majorver>1</majorver>
+<minorver>1</minorver>
+<frames>0</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>0</javascript>
+<javapplets>0</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<Win16>0</Win16>
+<beta>0</beta>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<platform>WinCE</platform>
+</browser>
+
+
+<!-- Netscape Browsers -->
+
+<!-- Navigator 4.x -->
+<browser
+	user-agent="Netscape 4.00">
+<name>Netscape</name>
+<version>4.00</version>
+<majorver>4</majorver>
+<minorver>00</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 4.00"
+	user-agent="Mozilla/4.0b1 (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 4.00"
+	user-agent="Mozilla/4.0b1 (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 4.00"
+	user-agent="Mozilla/4.0b2 (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 4.00"
+	user-agent="Mozilla/4.0b2 (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<!-- Navigator 4.x WILDCARD (IF ALL ABOVE FAIL) -->
+<browser
+	parent="Netscape 4.00"
+	user-agent="Mozilla/4.0*">
+</browser>
+
+<!-- Navigator 3.x -->
+<browser
+	user-agent="Netscape 3.01">
+<name>Netscape</name>
+<version>3.01</version>
+<majorver>3</majorver>
+<minorver>01</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<beta>0</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold*(Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold*(Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold*(WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold*(WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold*(Win16; I)">
+<platform>Win16</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01Gold*(Win16; U)">
+<platform>Win16</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01*(Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01*(Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01*(WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01*(WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01*(Win16; I)">
+<platform>Win16</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01*(Win16; U)">
+<platform>Win16</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01 (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01 (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01b1 (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01b1 (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01b1 (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01b1 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.01"
+	user-agent="Mozilla/3.01b1 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	user-agent="Netscape 3.0">
+<name>Netscape</name>
+<version>3.0</version>
+<majorver>3</majorver>
+<minorver>0</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<beta>0</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(Win16; U)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(Win95; U; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0Gold*(WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0 (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0 (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(Win16; U)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(Win95; U; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0*(WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b3 (Win16; I)">
+<platform>Win16</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b3 (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b3 (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b3Gold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4 (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4 (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4 (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4 (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4Gold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4Gold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4Gold (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4Gold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4Gold (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b4Gold (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (Win16; I)">
+<platform>Win16</platform>
+<beta>1</beta>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (Win16; U)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (Win95; U)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5 (WinNT; U)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5Gold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5Gold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5Gold (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5Gold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5Gold (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5Gold (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5a (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5a (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5a (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5a (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5aGold (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5aGold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5aGold (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b5aGold (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6 (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6 (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6 (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6 (Win95; U)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6 (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6Gold (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6Gold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6Gold (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6Gold (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6a (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6a (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6aGold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b6aGold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7 (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7 (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7 (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7 (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (Win95; U)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7Gold (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7a (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b7a (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Win16; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Win16; U)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Win95; I)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (Win95; U)">
+<platform>Win95</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Netscape 3.0"
+	user-agent="Mozilla/3.0b8Gold (WinNT; I)">
+<platform>WinNT</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	user-agent="Netscape 2.0">
+<name>Netscape</name>
+<version>2.0</version>
+<majorver>2</majorver>
+<minorver>0</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<beta>0</beta>
+<Win16>0</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (16bit; I)">
+<platform>16bit</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (16bit; U)">
+<platform>16bit</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Win95; U; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.0 (Windows; I; 32bit)">
+<platform>Windows</platform>
+
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (16bit; I)">
+<platform>16bit</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (16bit; U)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (Win95; U; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01 (WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01Gold (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01Gold (Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01Gold (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01Gold (WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01GoldA1 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01I (16bit; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01I (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.01I (WinNT; I)">
+<platform>WinNT</platform>
+
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Macintosh; I; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Macintosh; I; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Macintosh; U; 68K)">
+<platform>Mac68K</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Macintosh; U; PPC)">
+<platform>MacPPC</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (16bit; I)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (16bit; U)">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Win95; I; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (Win95; U; 16bit)">
+<platform>Win95</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02 (WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02Gold (Win95; I)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02Gold (Win95; U)">
+<platform>Win95</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02Gold (WinNT; I)">
+<platform>WinNT</platform>
+</browser>
+
+<browser
+	parent="Netscape 2.0"
+	user-agent="Mozilla/2.02Gold (WinNT; U)">
+<platform>WinNT</platform>
+</browser>
+
+
+
+<!-- Oracle Browser -->
+
+<!-- Oracle 1.x -->
+<browser
+	user-agent="Oracle 1.5">
+<name>Power Browser</name>
+<version>1.5</version>
+<majorver>1.5</majorver>
+<minorver>0</minorver>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>1</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+</browser>
+
+<browser
+	parent="Oracle 1.5"
+	user-agent="Mozilla/2.01 (Compatible) Oracle(tm) PowerBrowser(tm)/1.0a">
+<platform>Win95</platform>
+</browser>
+
+<!-- Opera -->
+
+<browser
+	user-agent="Opera Common">
+<name>Opera</name>
+<version>3</version>
+<majorver>3</majorver>
+<minorver>60</minorver>
+<platform>Win32</platform>
+<frames>1</frames>
+<tables>1</tables>
+<cookies>1</cookies>
+<backgroundsounds>1</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>1</javascript>
+<javapplets>1</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<beta>0</beta>
+<Win16>0</Win16>
+<Crawler>0</Crawler>
+<CDF>0</CDF>
+</browser>
+
+<browser
+	parent="Opera Common"
+	user-agent="Opera 2.0">
+<name>Opera</name>
+<version>2</version>
+<majorver>2</majorver>
+<minorver>0</minorver>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 2.0"
+	user-agent="Mozilla/2.1 (compatible; Opera/2.12; Windows 3.1)">
+<version>2.12</version>
+<minorver>12</minorver>
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Opera 2.0"
+	user-agent="Mozilla/2.1 (compatible; Opera/2.12; Windows*)">
+<version>2.12</version>
+<minorver>12</minorver>
+</browser>
+
+<!-- fallback -->
+<browser
+	parent="Opera 2.0"
+	user-agent="Mozilla/2.* (compatible; Opera/2.*)">
+<platform>unknown</platform>
+</browser>
+
+
+<browser
+	parent="Opera Common"
+	user-agent="Opera 3.0">
+<version>3</version>
+<majorver>3</majorver>
+<minorver>0</minorver>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 3.0"
+	user-agent="Opera 3.21">
+<version>3.21</version>
+<majorver>3</majorver>
+<minorver>21</minorver>
+</browser>
+
+<browser
+	parent="Opera 3.0"
+	user-agent="Mozilla/3.0 (compatible; Opera/3.0; Windows 3.1)*">
+<platform>Win31</platform>
+</browser>
+
+<browser
+	parent="Opera 3.0"
+	user-agent="Mozilla/3.0 (compatible; Opera/3.0; Windows*)*">
+</browser>
+
+<browser
+	parent="Opera 3.21"
+	user-agent="Mozilla/3.0 (compatible; Opera/3.0; Windows 3.1) 3.21*">
+<platform>Win16</platform>
+<Win16>1</Win16>
+</browser>
+
+<browser
+	parent="Opera 3.21"
+	user-agent="Mozilla/3.0 (compatible; Opera/3.0; Windows*) 3.21*">
+</browser>
+
+<browser
+	parent="Opera Common"
+	user-agent="Opera 3.50">
+<version>3.50</version>
+<majorver>3</majorver>
+<minorver>50</minorver>
+</browser>
+
+<browser
+	parent="Opera Common"
+	user-agent="Opera 3.51">
+<version>3.51</version>
+<majorver>3</majorver>
+<minorver>51</minorver>
+</browser>
+
+<!-- Matches both Mozilla 3 and 4 (and others :-) -->
+
+<browser
+	parent="Opera 3.50"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0; Windows 3.1) 3.50*">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 3.50"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0; Windows*) 3.50*">
+</browser>
+
+<browser
+	parent="Opera 3.50"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0;*) 3.50*">
+<platform>unknown</platform>
+</browser>
+
+<browser
+	parent="Opera 3.51"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0; Windows 3.1) 3.51*">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 3.51"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0; Windows*) 3.51*">
+</browser>
+
+<browser
+	parent="Opera 3.51"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0;*) 3.51*">
+<platform>unknown</platform>
+</browser>
+
+<browser
+	parent="Opera Common"
+	user-agent="Opera 3.60">
+<version>3.60</version>
+<majorver>3</majorver>
+<minorver>60</minorver>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Opera unknown system">
+<platform>unknown</platform>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (Windows 3.1;US) Opera 3.60b* ">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (Windows*;US) Opera 3.60b* ">
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (*;US) Opera 3.60b* ">
+<platform>unknown</platform>
+<beta>1</beta>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (Windows 3.1;US) Opera 3.60*">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (Windows*;US) Opera 3.60*">
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (*;US) Opera 3.60*">
+<platform>unknown</platform>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (Windows 3.1;US) Opera 3.*">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (Windows*;US) Opera 3.*">
+</browser>
+
+<browser
+	parent="Opera 3.60"
+	user-agent="Mozilla/*.0 (*;US) Opera 3.*">
+<platform>unknown</platform>
+</browser>
+
+<browser
+	parent="Opera Common"
+	user-agent="Opera 4.0">
+<version>4</version>
+<majorver>4</majorver>
+<minorver>0</minorver>
+</browser>
+
+<browser
+	parent="Opera 4.0"
+	user-agent="Mozilla/*.0 (Windows 3.1;US) Opera 4*">
+<platform>Win16</platform>
+<Win16>1</Win16>
+<javapplets>0</javapplets>
+</browser>
+
+<browser
+	parent="Opera 4.0"
+	user-agent="Mozilla/*.0 (Windows*;US) Opera 4*">
+</browser>
+
+<browser
+	parent="Opera 4.0"
+	user-agent="Mozilla/*.0 (*;US) Opera 4*">
+<platform>unknown</platform>
+</browser>
+
+<!-- Fallbacks -->
+
+<browser
+	parent="Opera unknown system"
+	user-agent="Mozilla/*.0 (compatible; Opera/3.0;*)">
+</browser>
+
+<browser
+	parent="Opera unknown system"
+	user-agent="Mozilla/*.0 (*;US) Opera*">
+</browser>
+
+<browser
+	parent="Opera unknown system"
+	user-agent="*Opera*">
+</browser>
+
+<!-- Default Browser  -->
+<browser
+	user-agent="*">
+<name>Default</name>
+<version>0.0</version>
+<majorver>#0</majorver>
+<minorver>#0</minorver>
+<frames>0</frames>
+<tables>1</tables>
+<cookies>0</cookies>
+<backgroundsounds>0</backgroundsounds>
+<vbscript>0</vbscript>
+<javascript>0</javascript>
+<javapplets>0</javapplets>
+<ActiveXControls>0</ActiveXControls>
+<AK>0</AK>
+<SK>0</SK>
+<AOL>0</AOL>
+<beta>0</beta>
+<Win16>0</Win16>
+<Crawler>0</Crawler>
+<CDF>0</CDF>
+<AuthenticodeUpdate>0</AuthenticodeUpdate>
+</browser>
+
+</Browsers>
+=== C:/Users/treeman/Desktop/windows nt source code\xbox\xbox_leak_may_2020\xbox trunk\xbox\public\wsdk\inc\atlmfc\out.txt ===
+//depot/Dev/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h
+... #100 change 38603 edit on 2000/12/12 09:04:03 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:184304 '
+... #99 change 38096 integrate on 2000/12/07 12:28:39 by REDMOND\dbartol@DBartol3Main (text) 'Reverse integrate from VCBranch'
+... ... ignored //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#14
+... #98 change 37560 edit on 2000/12/04 16:26:44 by REDMOND\andrewla@andrewla1 (text) 'Fixed VS7:119346 '
+... #97 change 37194 edit on 2000/12/01 12:29:30 by REDMOND\jasjitg@JASJITG1 (text) 'fix W4 warning '
+... #96 change 37072 edit on 2000/11/30 15:25:44 by REDMOND\jasjitg@JASJITG1 (text) 'vs:187425 '
+... #95 change 37036 edit on 2000/11/30 13:06:20 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:170504 '
+... #94 change 36993 edit on 2000/11/30 09:51:02 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:151989 '
+... #93 change 36923 edit on 2000/11/29 18:10:23 by REDMOND\jweiler@JWEILER1 (text) '187319 #pragma warning(push/pop'
+... #92 change 36707 edit on 2000/11/28 07:58:25 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:186275, 186273, 186274, 186'
+... #91 change 36460 edit on 2000/11/22 16:44:34 by REDMOND\jweiler@JWEILER1 (text) '- check HANDLE type for files o'
+... #90 change 36387 edit on 2000/11/21 19:47:13 by REDMOND\jweiler@JWEILER1 (text) '155151 _QIThunk::Release can de'
+... #89 change 35302 edit on 2000/11/12 16:07:28 by REDMOND\jweiler@JWEILER1 (text) '- changed perfmon map macros to'
+... ... copy into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#13
+... #88 change 35148 integrate on 2000/11/10 11:39:37 by REDMOND\dbartol@DBartol3Main (text) 'Reverse integrate '
+... ... ignored //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#11,#12
+... #87 change 34952 edit on 2000/11/08 21:36:15 by REDMOND\jasjitg@JASJITG1 (text) 'vs:182573 '
+... #86 change 34950 edit on 2000/11/08 20:11:55 by REDMOND\jweiler@JWEILER1 (text) '- fixed compile error if except'
+... #85 change 33807 edit on 2000/11/02 18:24:29 by REDMOND\jweiler@JWEILER1 (text) 'VS7:180948, VS7:181047, VS7:163'
+... #84 change 33522 edit on 2000/11/01 19:42:15 by REDMOND\dbartol@DBartol3 (text) 'VS7:179444 Cleaned up CElementT'
+... #83 change 33518 edit on 2000/11/01 19:23:56 by REDMOND\jweiler@JWEILER1 (text) 'VS7:177759, VS7:179250 '
+... #82 change 33452 edit on 2000/11/01 13:15:19 by REDMOND\mominag@MOMINAG04 (text) 'Fix bugs '
+... #81 change 32072 edit on 2000/10/25 11:17:08 by REDMOND\andrewla@andrewla1 (text) 'VS7: 174089, 168655, 151389, 17'
+... #80 change 32070 edit on 2000/10/25 11:09:28 by REDMOND\jasjitg@JASJITG1 (text) 'vs:177613 '
+... #79 change 31977 edit on 2000/10/24 16:49:26 by REDMOND\jasjitg@JASJITG1 (text) 'reverting '
+... ... copy into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#10
+... #78 change 31968 edit on 2000/10/24 16:10:33 by REDMOND\jasjitg@JASJITG1 (text) 'sridmad requested changes to da'
+... #77 change 31263 edit on 2000/10/18 12:43:47 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:174928 '
+... ... copy into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#9
+... #76 change 31045 edit on 2000/10/16 11:32:20 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:173159, 174357, 174030 '
+... ... edit into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#8
+... #75 change 30828 edit on 2000/10/13 13:56:22 by REDMOND\dbartol@DBartol3 (text) 'Disable copy constructor/assign'
+... #74 change 30639 edit on 2000/10/12 12:17:47 by REDMOND\jasjitg@JASJITG1 (text) 'vs:173204, vs:173494 '
+... #73 change 30603 edit on 2000/10/11 18:41:46 by REDMOND\jweiler@JWEILER1 (text) '173026 171171 171867 170545 170'
+... #72 change 30574 edit on 2000/10/11 13:51:24 by REDMOND\jasjitg@JASJITG1 (text) 'vs:169518 '
+... #71 change 30495 edit on 2000/10/10 19:27:33 by REDMOND\jweiler@JWEILER1 (text) '173008 ATLS: include processing'
+... #70 change 30236 edit on 2000/10/06 15:59:22 by REDMOND\sridmad@sridmad-20 (text) 'vs7-171956 '
+... ... edit into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#7
+... #69 change 30140 edit on 2000/10/04 14:48:56 by REDMOND\jasjitg@JASJITG1 (text) 'vs:170629, vs:170656 '
+... #68 change 29960 edit on 2000/09/29 15:50:09 by REDMOND\jweiler@JWEILER1 (text) 'VS7:165503 '
+... ... copy into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#6
+... #67 change 29959 edit on 2000/09/29 15:26:27 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:157543, 161263, 165137, 167'
+... #66 change 29915 edit on 2000/09/28 17:06:46 by REDMOND\andrewla@andrewla1 (text) 'Fixed 168217 ATLS: CCookie::Get'
+... #65 change 29908 edit on 2000/09/28 14:09:58 by REDMOND\jasjitg@JASJITG1 (text) 'vs:164645 '
+... #64 change 29903 edit on 2000/09/28 13:46:08 by REDMOND\andrewla@andrewla1 (text) 'Fixed VS7:168249 '
+... #63 change 29900 edit on 2000/09/28 13:34:56 by REDMOND\jasjitg@JASJITG1 (text) 'one more small form parser chan'
+... #62 change 29898 edit on 2000/09/28 13:02:12 by REDMOND\jasjitg@JASJITG1 (text) 'vs:168219 '
+... #61 change 29893 edit on 2000/09/28 11:43:18 by REDMOND\jasjitg@JASJITG1 (text) 'small update '
+... #60 change 29836 edit on 2000/09/27 15:55:23 by REDMOND\jasjitg@JASJITG1 (text) 'update to last checkin '
+... #59 change 29834 edit on 2000/09/27 15:35:16 by REDMOND\jasjitg@JASJITG1 (text) 'vs:165006 '
+... #58 change 29795 edit on 2000/09/26 19:45:31 by REDMOND\jweiler@JWEILER1 (text) 'added #pragma warning(push/pop)'
+... ... copy into //depot/vcbranch/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#5
+... #57 change 29488 edit on 2000/09/21 13:08:11 by REDMOND\dbartol@DBartol7 (text) 'Removed references to deprecate'
+... ... copy into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#8
+... #56 change 29484 edit on 2000/09/21 10:56:38 by REDMOND\marcbar@MARCBAR02 (text) 'VS7 165180 Fixed a lot of %s tr'
+... #55 change 29483 edit on 2000/09/21 08:26:58 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:163848 '
+... #54 change 29479 edit on 2000/09/20 19:43:20 by REDMOND\jweiler@JWEILER1 (text) 'VS7:165025, VS7:165043, VS7:163'
+... #53 change 29441 edit on 2000/09/19 16:26:11 by REDMOND\jasjitg@JASJITG1 (text) 'vs:164558 '
+... #52 change 29431 edit on 2000/09/19 08:55:38 by REDMOND\mikedice@MIKEDICE1 (text) 'vs7:163575 '
+... #51 change 29430 edit on 2000/09/19 05:38:28 by REDMOND\mikedice@MIKEDICE1 (text) 'vs7:164283 '
+... #50 change 29423 edit on 2000/09/18 19:40:05 by REDMOND\jweiler@JWEILER1 (text) 'VS7:163828, VS7:163862 '
+... #49 change 29421 edit on 2000/09/18 19:10:29 by REDMOND\jasjitg@JASJITG1 (text) 'vs:163908, vs:164075 '
+... #48 change 29407 edit on 2000/09/18 10:21:07 by REDMOND\andrewla@andrewla1 (text) 'Fixed VS7:163643 '
+... #47 change 29352 edit on 2000/09/16 13:20:06 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:163554 '
+... #46 change 29340 edit on 2000/09/15 20:53:41 by REDMOND\jweiler@JWEILER1 (text) '156668 ATLS: atoi or _ttoi in a'
+... #45 change 29317 edit on 2000/09/15 11:36:35 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:159698 '
+... ... edit into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#7
+... #44 change 29309 edit on 2000/09/15 10:24:59 by REDMOND\jasjitg@JASJITG1 (text) 'vs:162781, vs:162849 '
+... #43 change 29301 edit on 2000/09/15 06:59:27 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:157558 '
+... #42 change 29216 edit on 2000/09/14 14:19:21 by REDMOND\andrewla@andrewla1 (text) 'VS7:161677, 158030, 157983 '
+... #41 change 29208 edit on 2000/09/14 11:56:38 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:118943 '
+... #40 change 29177 edit on 2000/09/13 18:50:55 by REDMOND\jweiler@JWEILER1 (text) '160386 ATLS: Async Race Conditi'
+... #39 change 29094 edit on 2000/09/11 17:24:29 by REDMOND\jasjitg@JASJITG1 (text) 'vs:149887, vs:151004 '
+... ... copy into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#6
+... #38 change 29071 edit on 2000/09/11 14:02:08 by REDMOND\jasjitg@JASJITG1 (text) 'vs:157294 '
+... #37 change 28942 edit on 2000/09/07 19:34:13 by REDMOND\jweiler@JWEILER1 (text) '160010 ATLS: Async race conditi'
+... #36 change 28930 edit on 2000/09/07 13:59:25 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:159448 '
+... #35 change 28926 edit on 2000/09/07 13:11:03 by REDMOND\mikedice@MIKEDICE3 (text) 'fixing bad checking version #33'
+... #34 change 28925 edit on 2000/09/07 13:05:56 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:157497, 157485, 78033, 1575'
+... #33 change 28884 edit on 2000/09/06 11:22:28 by REDMOND\mikedice@MIKEDICE3 (text) 'Code clean-up '
+... ... copy into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#5
+... #32 change 28807 edit on 2000/08/31 17:18:35 by REDMOND\andrewla@andrewla1 (text) 'VS7: 156384, 156668, 157006, 15'
+... #31 change 28775 edit on 2000/08/30 17:58:52 by REDMOND\jweiler@JWEILER1 (text) '155594 ATLS: Check against dwRe'
+... #30 change 28766 edit on 2000/08/30 14:21:09 by REDMOND\jasjitg@JASJITG1 (text) 'vs:149786 '
+... #29 change 28745 edit on 2000/08/30 06:22:15 by REDMOND\mikedice@mikedice1 (text) 'vs7:155563 '
+... #28 change 28707 edit on 2000/08/29 15:51:52 by REDMOND\andrewla@andrewla1 (text) 'VS7:96924, 156319, 130522, 1496'
+... #27 change 28661 edit on 2000/08/28 12:19:06 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:155754 '
+... #26 change 28604 edit on 2000/08/25 19:15:17 by REDMOND\jweiler@JWEILER1 (text) '128737 Stencils Paths relative '
+... ... copy into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#4
+... #25 change 28564 edit on 2000/08/24 18:03:58 by REDMOND\jweiler@JWEILER1 (text) '151979 ATLS: CHandle, CAtlFile '
+... #24 change 28470 edit on 2000/08/22 15:09:01 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:153147, 153149 '
+... #23 change 28426 edit on 2000/08/21 13:50:36 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:128555 '
+... #22 change 28328 edit on 2000/08/18 15:49:32 by REDMOND\andrewla@andrewla1 (text) 'Fixed bugs: VS7:98392, 116821, '
+... #21 change 28302 edit on 2000/08/18 07:35:55 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:151071 '
+... #20 change 28284 edit on 2000/08/17 18:53:20 by REDMOND\jweiler@JWEILER1 (text) '150700 ATLS: IRequestHandlerImp'
+... #19 change 28248 edit on 2000/08/17 07:56:29 by REDMOND\mikedice@MIKEDICE3 (text) 'Fixing small passport problem i'
+... ... copy into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#3
+... #18 change 28156 edit on 2000/08/15 07:55:27 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:150124 '
+... #17 change 28117 edit on 2000/08/14 11:50:29 by REDMOND\jasjitg@JASJITG1 (text) 'cleanup of shared code '
+... #16 change 28107 edit on 2000/08/14 10:07:11 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:123703, 138398, 123677 '
+... #15 change 28050 edit on 2000/08/11 19:19:55 by REDMOND\jasjitg@JASJITG1 (text) 'vs:149754 '
+... #14 change 27934 edit on 2000/08/09 15:20:21 by REDMOND\andrewla@andrewla1 (text) 'More fixes for VS7:116847 '
+... #13 change 27931 edit on 2000/08/09 14:10:43 by REDMOND\mikedice@MIKEDICE3 (text) 'vs7:138256 '
+... #12 change 27915 edit on 2000/08/09 10:02:15 by REDMOND\andrewla@andrewla1 (text) 'Withdrawel of the more breaking'
+... #11 change 27883 edit on 2000/08/08 17:20:34 by REDMOND\andrewla@andrewla1 (text) ' Bug fix: VS7:116847 '
+... #10 change 27813 edit on 2000/08/07 16:11:16 by REDMOND\jasjitg@JASJITG1 (text) 'VS:147087 VS:147088 '
+... #9 change 27753 edit on 2000/08/05 16:08:59 by REDMOND\jasjitg@JASJITG1 (text) 'VS:116146 '
+... #8 change 27730 edit on 2000/08/04 17:41:25 by REDMOND\andrewla@andrewla1 (text) 'Fixed bugs:VS7:146093, 81985, 1'
+... #7 change 27718 edit on 2000/08/04 13:58:21 by REDMOND\jweiler@JWEILER1 (text) 'VS7:137329 '
+... #6 change 27662 edit on 2000/08/03 10:05:36 by REDMOND\sridmad@sridmad-20 (text) 'vs7_129128 '
+... #5 change 27281 edit on 2000/07/25 19:07:06 by REDMOND\jasjitg@JASJITG1 (text) 'VS:132563 '
+... ... copy into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#2
+... #4 change 27265 edit on 2000/07/25 14:44:36 by REDMOND\andrewla@andrewla1 (text) 'Fixed VS7:131468 '
+... #3 change 27258 edit on 2000/07/25 12:15:04 by REDMOND\jasjitg@JASJITG1 (text) 'VS:130362 VS:132154 '
+... #2 change 27199 edit on 2000/07/24 12:14:16 by REDMOND\jasjitg@JASJITG1 (text) 'make SOAP stuff work with cocla'
+... #1 change 27186 branch on 2000/07/21 21:33:54 by REDMOND\dbartol@DBartol8_Lang5Port (text) 'Port to Lang5 directory structu'
+... ... branch into //depot/Main/VC/VC7Libs/Ship/ATLMFC/Include/atlisapi.h#1
+... ... branch from //depot/VC7Libs/Live/Ship/ATLMFC/Include/atlisapi.h#1,#344
+=== C:/Users/treeman/Desktop/windows nt source code\xbox\xbox_leak_may_2020\xbox trunk\xbox\public\wsdk\inc\crt70\difflkg.log ===
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 02:20:13] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 02:20:13] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 02:20:13] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 04:38:48] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 04:38:48] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:[VSLAB: 04:38:48] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:[VSLAB: 13:40:09] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:[VSLAB: 13:40:09] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:[VSLAB: 13:40:09] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:[VSLAB: 13:40:09] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:[VSLAB: 13:40:09] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_06.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:[VSLAB: 15:55:41] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:[VSLAB: 15:55:41] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:[VSLAB: 15:55:41] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:[VSLAB: 15:55:41] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:[VSLAB: 15:55:42] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_08.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:06:12] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:06:12] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:06:12] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:06:12] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:06:12] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:17:06] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:17:06] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:17:06] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:17:06] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:[VSLAB: 18:17:07] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\build_vsbld52_10.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\bin is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\atl is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\Attribut is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\Common is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\atl is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\gl is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\mfc\res is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\objmodel is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\sys is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\atl is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\crt is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\crt\sys is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\bin\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       4  e:\DevTools\common\vclkg\env\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       3  e:\DevTools\common\vclkg\env\template\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      95  e:\DevTools\common\vclkg\env\template\atl\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      40  e:\DevTools\common\vclkg\env\template\Attribut\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      42  e:\DevTools\common\vclkg\env\template\Common\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                     986  e:\DevTools\common\vclkg\inc\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      69  e:\DevTools\common\vclkg\inc\atl\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       4  e:\DevTools\common\vclkg\inc\gl\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      85  e:\DevTools\common\vclkg\inc\mfc\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      37  e:\DevTools\common\vclkg\inc\mfc\res\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      15  e:\DevTools\common\vclkg\inc\objmodel\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       6  e:\DevTools\common\vclkg\inc\sys\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\src\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                      18  e:\DevTools\common\vclkg\src\atl\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                     852  e:\DevTools\common\vclkg\src\crt\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                       6  e:\DevTools\common\vclkg\src\crt\sys\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:	                     289  e:\DevTools\common\vclkg\src\mfc\
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 02:20:13] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 02:20:13] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 02:20:13] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 04:38:48] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 04:38:48] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:[VSLAB: 04:38:48] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl(31): f:\vs70builds\8546\devtools\common\vclkg\inc\exdisp.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\makevs_vsbld52_04.log:BUILD: f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl(16): f:\vs70builds\8546\devtools\common\vclkg\inc\vidsvr.odl - invalid include statement: importlib(STDOLE_TLB);
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_04.log:atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_04.log:crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_04.log:mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_04.log:mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_04.log:sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_06.log:atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_06.log:crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_06.log:mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_06.log:mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_06.log:sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_08.log:atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_08.log:crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_08.log:mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_08.log:mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_08.log:sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\runscript_vsbld52_10.log:sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 02:20:13] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_04.log:[VSLAB: 04:38:48] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_06.log:[VSLAB: 13:40:09] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_07.log:[VSLAB: 15:18:41] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:41] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_08.log:[VSLAB: 15:55:42] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_09.log:[VSLAB: 17:00:54] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:06:12] defined:   sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: atl_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\atl
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: crt_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: mfc_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:06] inherited: mfc_src_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc\mfc
+\\vsbld52\vs70builds\8546\logs\setenv_vsbld52_10.log:[VSLAB: 18:17:07] inherited: sdk_inc_path=f:\VS70Builds\8546\DevTools\common\vcLKG\inc
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\bin is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template\Attribut is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\env\template\Common is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\gl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\mfc\res is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\objmodel is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\inc\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\crt is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\crt\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_02.log:E:\DEVTOOLS\common\vclkg\src\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\bin is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\Attribut is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\env\template\Common is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\gl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\mfc\res is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\objmodel is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\inc\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\atl is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\crt is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\crt\sys is in sync
+\\vsbld52\vs70builds\8546\logs\sync_vsbld52_04.log:E:\DEVTOOLS\common\vclkg\src\mfc is in sync
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              1  e:\DevTools\common\vclkg\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              1  e:\DevTools\common\vclkg\bin\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              4  e:\DevTools\common\vclkg\env\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              3  e:\DevTools\common\vclkg\env\template\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             95  e:\DevTools\common\vclkg\env\template\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             40  e:\DevTools\common\vclkg\env\template\Attribut\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             42  e:\DevTools\common\vclkg\env\template\Common\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir            986  e:\DevTools\common\vclkg\inc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             69  e:\DevTools\common\vclkg\inc\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              4  e:\DevTools\common\vclkg\inc\gl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             85  e:\DevTools\common\vclkg\inc\mfc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             37  e:\DevTools\common\vclkg\inc\mfc\res\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             15  e:\DevTools\common\vclkg\inc\objmodel\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              6  e:\DevTools\common\vclkg\inc\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              1  e:\DevTools\common\vclkg\src\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir             18  e:\DevTools\common\vclkg\src\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir            852  e:\DevTools\common\vclkg\src\crt\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir              6  e:\DevTools\common\vclkg\src\crt\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_03.log:	  New Dir            289  e:\DevTools\common\vclkg\src\mfc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\bin\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       4  e:\DevTools\common\vclkg\env\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       3  e:\DevTools\common\vclkg\env\template\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      95  e:\DevTools\common\vclkg\env\template\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      40  e:\DevTools\common\vclkg\env\template\Attribut\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      42  e:\DevTools\common\vclkg\env\template\Common\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                     986  e:\DevTools\common\vclkg\inc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      69  e:\DevTools\common\vclkg\inc\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       4  e:\DevTools\common\vclkg\inc\gl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      85  e:\DevTools\common\vclkg\inc\mfc\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      37  e:\DevTools\common\vclkg\inc\mfc\res\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      15  e:\DevTools\common\vclkg\inc\objmodel\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       6  e:\DevTools\common\vclkg\inc\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       1  e:\DevTools\common\vclkg\src\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                      18  e:\DevTools\common\vclkg\src\atl\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                     852  e:\DevTools\common\vclkg\src\crt\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                       6  e:\DevTools\common\vclkg\src\crt\sys\
+\\vsbld52\vs70builds\8546\logs\updaterev_vsbld52_04.log:	                     289  e:\DevTools\common\vclkg\src\mfc\
